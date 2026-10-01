@@ -35,7 +35,7 @@
   "devDependencies": {
     "@vitest/browser-playwright": "^4.1.10",
     "playwright": "=1.58.2",
-    "vitest": "^4.1.8"
+    "vitest": "^5.0.3"
   },
   "exports": {
     ".": "./src/index.ts",
